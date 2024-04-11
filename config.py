@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/monster_discussion")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/monster_king_is_here")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/monstarlove")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/monstarqueen")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/d837f788db5e76cbd65e7.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/5f736278d0b3929fc0878.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/d837f788db5e76cbd65e7.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/5f736278d0b3929fc0878.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://graph.org/file/d837f788db5e76cbd65e7.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/5f736278d0b3929fc0878.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
