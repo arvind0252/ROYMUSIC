@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await DAXX.start()
     try:
-        await DAXX.stream_call("https://graph.org/file/d837f788db5e76cbd65e7.jpg")
+        await DAXX.stream_call("https://telegra.ph/file/5f736278d0b3929fc0878.jpg")
     except NoActiveGroupCall:
         LOGGER("DAXXMUSIC").error(
             "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗠𝗢𝗡𝗦𝗧𝗘𝗥 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
