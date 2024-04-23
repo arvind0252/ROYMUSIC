@@ -18,15 +18,15 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/LOCO-PILOT/ROYMUSIC"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/monstarlove"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/monstarqueen"),
           ],
     ]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://graph.org/file/33bc093c89898dcc318ae.jpg",
+        photo="https://telegra.ph/file/8bc05d47bec1beaa095b6.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
