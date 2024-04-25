@@ -30,7 +30,7 @@ async def gen_cc(client, message):
 
 **❅ ʙɪɴ ➠** `{resp.results[0].bin}`
 
-**❅ ᴄᴄ ɢᴇɴ ʙʏ ➠ ๛ɴ ʏ ᴋ ᴀ ᴀ࿐"""
+**❅ ᴄᴄ ɢᴇɴ ʙʏ ➠ ๛𝗠𝗔𝗡𝗡𝗨𝗠𝗨𝗦𝗜𝗖࿐"""
         )
     except Exception as e:
         return await aux.edit(f"**✦ ᴇʀʀᴏʀ ➠** `{e}`")
