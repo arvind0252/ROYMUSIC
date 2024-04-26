@@ -11,3 +11,5 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LOCO-PILOT/ROYMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
 
+<p align="center"><a href="https://t.me/monstarlove"><img src="https://graph.org/file/0a7c2e5fb8cfdfd2c1f6a.jpg"></a></p>
+
